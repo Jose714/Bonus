@@ -1,0 +1,16 @@
+{
+  "name": "bonus",
+  "version": "1.0.1",
+  "description": "Express y git hub",
+  "main": "cursos.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Miller correo:jomicasierra@unac.edu.co",
+  "license": "ISC"
+}

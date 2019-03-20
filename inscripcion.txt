@@ -1,0 +1,3 @@
+El estudiante Juancho con cédula 1099574
+se ha matriculado con éxito en el Curso Electronica digital TDA
+Ademas El curso tiene una duracion de 38 Horas  y un tambien Elcurso tiene un valor de 200000 pesos
